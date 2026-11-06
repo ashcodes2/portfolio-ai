@@ -1,0 +1,164 @@
+
+{
+  "personal_info": {
+    "name":"Ashwani Upadhyay" ,
+    "location": "Gorakhpur, UP, India",
+    "phone": "+91-637529xxxx",
+    "email": "avinash74xxx6@gmail.com",
+    "linkedin": "https://linkedin.com/in/ashwaniupadhyaydev2",
+    "github": "https://github.com/ashcodes2",
+    "portfolio": "https://ashwani-portfolio-wheat.vercel.app",
+    "leetcode": null
+  },
+  "professional_summary": "Full-Stack Software Engineer and SDE Trainee at Tranzita Systems with hands-on experience building end-to-end web applications using React.js, Node.js, and MongoDB. Shipped three production-ready systems independently. Strong foundation in Data Structures and Algorithms using C++, REST API design, and system design fundamentals. Currently learning AI and its integration into software products.",
+  "technical_skills": {
+    "languages": ["JavaScript (ES6+)", "C++"],
+    "frontend": [
+      "React.js",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "REST API Design",
+      "Socket.io",
+      "JWT Authentication"
+    ],
+    "database": ["MongoDB", "Mongoose ODM"],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Vercel",
+      "Postman",
+      "Vite"
+    ],
+    "core_cs": [
+      "Data Structures and Algorithms",
+      "OOP",
+      "DBMS",
+      "Operating Systems",
+      "System Design Fundamentals"
+    ],
+    "currently_learning": [
+      "AI",
+      "LLM Integration"
+    ]
+  },
+  "experience": [
+    {
+      "role": "SDE Trainee",
+      "company": "Tranzita Systems",
+      "location": "Lucknow, UP",
+      "employment_type": "Full-time",
+      "duration": "October 2026 - Present",
+      "responsibilities": [
+        "Working as a Software Development Engineer Trainee at the Lucknow Development Centre.",
+        "Learning AI concepts and their integration into software products.",
+        "Following a structured software development training program."
+      ]
+    },
+    {
+      "role": "Full-Stack Developer",
+      "company": "Vijay Medical Store",
+      "employment_type": "Freelance",
+      "duration": "January 2026 - Present",
+      "responsibilities": [
+        "Built an end-to-end MERN application with customer storefront and role-protected admin dashboard.",
+        "Integrated Tesseract.js OCR for prescription scanning.",
+        "Implemented custom fuzzy matching to correct OCR typos and match products.",
+        "Built guest order tracking using dynamically generated SHA-256 tokens.",
+        "Implemented IP-based rate limiting.",
+        "Prevented overselling using atomic MongoDB increment operations."
+      ],
+      "technologies": [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js",
+        "Tesseract.js",
+        "SHA-256"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "CollabCode",
+      "description": "Real-time collaborative code editor.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Socket.io",
+        "Yjs CRDT",
+        "Monaco Editor"
+      ],
+      "highlights": [
+        "Built multi-user collaborative code editing.",
+        "Implemented conflict-free synchronization using Yjs CRDT.",
+        "Developed low-latency synchronization using Socket.io.",
+        "Integrated Monaco Editor for a VS Code-like experience.",
+        "Added multi-language code execution through a cloud compiler API."
+      ],
+      "live_demo": null,
+      "github": null
+    },
+    {
+      "name": "Fintech Ledger",
+      "description": "Full-stack banking and double-entry ledger platform.",
+      "technologies": [
+        "React 19",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Vite"
+      ],
+      "highlights": [
+        "Implemented immutable DEBIT and CREDIT records.",
+        "Built derived balance calculations.",
+        "Implemented atomic fund transfers using MongoDB ACID transactions.",
+        "Used idempotency keys to prevent duplicate transfers.",
+        "Built responsive dual-view ledger interface.",
+        "Secured authentication using JWT HTTP-only cookies and token blacklisting.",
+        "Deployed frontend on Vercel and backend on Render with MongoDB Atlas."
+      ],
+      "live_demo": null,
+      "github": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "KIPM College of Engineering & Technology",
+      "university": "AKTU",
+      "degree": "B.Tech",
+      "branch": "Computer Science and Engineering",
+      "cgpa": "7.8/10",
+      "duration": "August 2023 - May 2027",
+      "location": "Gorakhpur, UP"
+    },
+    {
+      "institution": "Rishi International School",
+      "qualification": "Senior Secondary (Class XII)",
+      "board": "CBSE",
+      "percentage": "87%",
+      "completion": "May 2023",
+      "location": "Jaipur, Rajasthan"
+    }
+  ],
+  "certifications_and_achievements": [
+    {
+      "name": "Google Cloud × TalentLabs Certification",
+      "year": 2024,
+      "description": "Cloud fundamentals, application deployment, and infrastructure management on GCP."
+    },
+    {
+      "name": "Smart India Hackathon",
+      "year": 2023,
+      "description": "Collaborated in a team to design and prototype technical solutions under time constraints."
+    },
+    {
+      "name": "Competitive Programming",
+      "description": "Solved 110+ algorithmic problems across LeetCode and other coding platforms using C++."
+    }
+  ]
+}

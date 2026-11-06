@@ -1,0 +1,14 @@
+# Environment & secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated PDF reports
+reports/
+*.pdf
+
+# Chainlit files
+.files/

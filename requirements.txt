@@ -1,0 +1,5 @@
+chainlit>=2.12.0
+groq>=0.37.1
+pydantic>=2.14.0
+python-dotenv>=1.2.0
+reportlab>=5.1.0

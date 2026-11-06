@@ -1,0 +1,18 @@
+Project: AI-Powered Portfolio Website
+
+Goal: Recruiters tumhare AI chatbot se interact karke tumhare skills, projects, education aur experience ke baare mein jaan sakein.
+
+
+Finalized Tech Stack-
+
+
+LLM-->GPT-OSS 120B
+LLM-->Provider	Groq API
+Language-->Python
+Frontend-->Chainlit
+Profile Data-->JSON
+Validation-->Pydantic
+Environment-->dotenv
+Streaming-->Chainlit Streaming
+
+
